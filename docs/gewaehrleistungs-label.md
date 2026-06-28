@@ -26,8 +26,8 @@ Das Label ist ein **Theme-App-Block** und wird im Theme-Editor platziert.
    Speichern Sie das Theme und prüfen Sie die Anzeige im Live-Shop.
 :::
 
-::: callout info "Optional – bald verpflichtend" icon:calendar
-Der Hinweis ist derzeit **optional** und wird zu einem von der EU vorgegebenen Stichtag verpflichtend. Die App weist Sie im Einrichtungsassistenten auf den jeweiligen Stichtag hin. [TEYİT: exaktes Pflicht-Datum / Geltungsbereich bitte bestätigen]
+::: callout info "Optional – ab 27. September 2026 verpflichtend" icon:calendar
+Der Hinweis ist derzeit optional und wird **ab dem 27. September 2026 verpflichtend** (Richtlinie (EU) 2024/825; maßgeblich sind die jeweiligen nationalen Umsetzungsfristen). Die App weist Sie im Einrichtungsassistenten auf den Stichtag hin.
 :::
 
 ::: callout tip "Mehrsprachig" icon:languages

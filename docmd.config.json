@@ -6,6 +6,12 @@
   "out": "site",
   "base": "/dotcasedoc/",
   "engine": "js",
+  "favicon": "/assets/favicon.ico",
+  "logo": {
+    "light": "/assets/dotcase-logo-256.png",
+    "dark": "/assets/dotcase-logo-256.png",
+    "alt": "Dotcase – EU Compliance"
+  },
   "layout": {
     "spa": true,
     "header": { "enabled": true },

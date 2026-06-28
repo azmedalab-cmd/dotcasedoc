@@ -34,7 +34,7 @@ Der EU-Gewährleistungshinweis ist auf **allen** Tarifen kostenlos – auch im F
 ## Preise
 
 ::: callout info "Aktuelle Preise im App Store" icon:tag
-Pro kostet derzeit **9,90 USD / Monat** bzw. **99 USD / Jahr**, jeweils mit einer **14-tägigen kostenlosen Testphase**. **Maßgeblich sind stets die im Shopify App Store ausgewiesenen, aktuellen Preise.** [TEYİT: aktuelle Preise/Trial im App-Store-Listing bestätigen]
+Pro kostet derzeit **9,90 USD / Monat** bzw. **99 USD / Jahr**, jeweils mit einer **14-tägigen kostenlosen Testphase**. **Maßgeblich sind stets die im Shopify App Store ausgewiesenen, aktuellen Preise.**
 :::
 
 ## Abrechnung über Shopify
