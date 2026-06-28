@@ -66,6 +66,7 @@
     { "title": "FAQ", "path": "/faq", "icon": "help-circle" }
   ],
   "plugins": {
+    "git": { "commitHistory": false, "lastUpdated": false, "editLink": false },
     "search": { "include": ["**/*.md"] },
     "sitemap": { "url": "https://azmedalab-cmd.github.io/dotcasedoc/" },
     "seo": {
