@@ -1,0 +1,69 @@
+{
+  "title": "Dotcase – EU Compliance · Händler-Dokumentation",
+  "description": "Händler-Dokumentation zur Shopify-App Dotcase – EU Compliance: Widerrufsbutton, Gewährleistungshinweis, E-Mails, Einstellungen, AVV/AGB und mehr.",
+  "url": "https://azmedalab-cmd.github.io/dotcasedoc/",
+  "src": "docs",
+  "out": "site",
+  "base": "/dotcasedoc/",
+  "engine": "js",
+  "layout": {
+    "spa": true,
+    "header": { "enabled": true },
+    "sidebar": {
+      "enabled": true,
+      "collapsible": true,
+      "defaultCollapsed": false,
+      "position": "left"
+    },
+    "optionsMenu": {
+      "position": "sidebar-top",
+      "components": { "search": true, "themeSwitch": true }
+    },
+    "footer": {
+      "style": "minimal",
+      "content": "© 2026 Dotcase – Özgür Kadir Taskesen · Nienburg/Weser",
+      "branding": true
+    }
+  },
+  "theme": {
+    "name": "default",
+    "appearance": "system",
+    "codeHighlight": true
+  },
+  "minify": true,
+  "autoTitleFromH1": true,
+  "copyCode": true,
+  "pageNavigation": true,
+  "navigation": [
+    { "title": "Startseite", "path": "/", "icon": "home" },
+    { "title": "Erste Schritte", "path": "/erste-schritte", "icon": "rocket" },
+    { "title": "Installation & Gate", "path": "/installation", "icon": "download" },
+    {
+      "title": "Formular einbinden",
+      "icon": "layout",
+      "collapsible": true,
+      "children": [
+        { "title": "Übersicht", "path": "/formular-einbinden", "icon": "list" },
+        { "title": "App-Embed-Button", "path": "/formular-einbinden/app-embed-button", "icon": "mouse-pointer-click" },
+        { "title": "Inline-Formular", "path": "/formular-einbinden/inline-formular", "icon": "file-text" },
+        { "title": "Legacy-Themes", "path": "/formular-einbinden/legacy-themes", "icon": "history" },
+        { "title": "Link als Button", "path": "/formular-einbinden/link-als-button", "icon": "link" }
+      ]
+    },
+    { "title": "E-Mail-Vorlagen", "path": "/email-vorlagen", "icon": "mail" },
+    { "title": "Gewährleistungs-Label", "path": "/gewaehrleistungs-label", "icon": "shield-check" },
+    { "title": "Einstellungen", "path": "/einstellungen", "icon": "settings" },
+    { "title": "Pro & Abrechnung", "path": "/pro-abrechnung", "icon": "credit-card" },
+    { "title": "Datenschutz & AVV", "path": "/datenschutz-avv", "icon": "lock" },
+    { "title": "Webhooks", "path": "/webhooks", "icon": "webhook" },
+    { "title": "Fehlerbehebung", "path": "/fehlerbehebung", "icon": "wrench" },
+    { "title": "FAQ", "path": "/faq", "icon": "help-circle" }
+  ],
+  "plugins": {
+    "search": { "include": ["**/*.md"] },
+    "sitemap": { "url": "https://azmedalab-cmd.github.io/dotcasedoc/" },
+    "seo": {
+      "defaultDescription": "Händler-Dokumentation zur Shopify-App Dotcase – EU Compliance."
+    }
+  }
+}
